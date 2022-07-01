@@ -1,4 +1,4 @@
-PetRarity = "Legendary"
+PetRarity = legendary"
 PetLimited = true
 PetAll = false
 TradeUser = "tyfortnycfPH"
